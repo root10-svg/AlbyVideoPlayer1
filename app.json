@@ -1,7 +1,7 @@
 {
     "name": "AKBYVIDEOMUSIC",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/albinpraveen/AlbyVideoPlayer",
+    "repository": "https://github.com/root10-svg/AlbyVideoPlayer1",
     "stack": "container",
     "keywords": [
       "telegram",
